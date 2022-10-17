@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kuxala
-- 👀 I’m interested in AI 
-- 🌱 I’m currently learning Nothing=
+- 👀 I’m interested in A.I.
+- 🌱 I’m currently learning Nothing
 - 📫 How to reach me cyberdna12@gmail.com
 
 <!---
