@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kuxala
 - 👀 I’m interested in A.I.
-- 🌱 I’m currently learning WEB
+- 🌱 I’m currently learning Web development
 - 📫 How to reach me info@kuxala.me
 
 <!---
