@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kuxala
-- 👀 I’m interested in A.I.
+- 👀 I’m interested in Cyber security
 - 🌱 I’m currently learning Web development
 - 📫 How to reach me info@kuxala.me
 
