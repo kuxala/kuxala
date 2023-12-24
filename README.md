@@ -1,3 +1,6 @@
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=kuxala&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
 # 💫 About Me:
 🌱 I’m currently learning React & TypeScript<br><br>👨‍💻 All of my projects are available at kuxala.me<br><br>📫 How to reach me kukhalashvili09@gmail.com
 
@@ -12,8 +15,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kuxala&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kuxala&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kuxala&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=kuxala&icon=0&color=0)](https://visitcount.itsvg.in)
