@@ -2,7 +2,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=kuxala&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 # 💫 About Me:
-🌱 I’m currently learning React & TypeScript<br><br>👨‍💻 All of my projects are available at kuxala.me<br><br>📫 How to reach me kukhalashvili09@gmail.com
+🌱 I’m currently learning React & TypeScript<br><br>📫 How to reach me kukhalashvili09@gmail.com
 
 
 ## 🌐 Socials:
