@@ -1,9 +1,9 @@
 
 
-<h3 align="left">Hey there! 👋 I'm Roma, a developer who loves building cool stuff with code. I got hooked on coding because I enjoy solving problems and making things work.</h3>
+<h2 align="left">Hey there! 👋 I'm Roma, a developer who loves building cool stuff with code. I got hooked on coding because I enjoy solving problems and making things work.</h2>
 </br>
-<p align="left">🚀 What I Do: I focus on frontend development, especially with React.js.</p>
-<p align="left">🌱 Currently Learning: I'm digging deeper into React and starting to explore backend development too.</p>
+<h4 align="left">🚀 What I Do: I focus on frontend development, especially with React.js.</h4>
+<h4 align="left">🌱 Currently Learning: I'm digging deeper into React and starting to explore backend development too.</h4>
 </br>
 
 
