@@ -1,14 +1,8 @@
-### About Me
+<br clear="both">
 
-Hi there, I'm [Your Name] 👋. I'm a passionate developer with a love for crafting elegant solutions and delightful user experiences. My journey into coding began with a fascination for JavaScript and the discovery of React, which ignited my passion for frontend development.
+<h3 align="left">Hey there! 👋 I'm Roma, a developer who loves building cool stuff with code. I got hooked on coding because I enjoy solving problems and making things work.<br>🚀 What I Do: I focus on frontend development, especially with React.js.<br>🌱 Currently Learning: I'm digging deeper into React and starting to explore backend development too.</h3>
 
-💻 **What I Do:** React Enthusiast, Exploring New Horizons, Problem Solver
-
-🌱 **Currently Learning:** Advanced React patterns and Next.js for server-side rendering
-
-🚀 **Let's Connect:** Find me on [LinkedIn](https://www.linkedin.com/in/yourprofile), Follow me on [Twitter](https://twitter.com/yourhandle), Check out my latest projects on [GitHub](https://github.com/yourusername)
-
----
+###
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kuxala&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
@@ -17,7 +11,9 @@ Hi there, I'm [Your Name] 👋. I'm a passionate developer with a love for craft
   <img src="https://streak-stats.demolab.com?user=kuxala&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
----
+###
+
+<br clear="both">
 
 <div align="center">
   <a href="https://www.linkedin.com/in/roman-kukhalashvili-388751221/" target="_blank">
@@ -28,13 +24,7 @@ Hi there, I'm [Your Name] 👋. I'm a passionate developer with a love for craft
   </a>
 </div>
 
----
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/kuxala/count.svg?"  />
-</div>
-
----
+###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -53,4 +43,31 @@ Hi there, I'm [Your Name] 👋. I'm a passionate developer with a love for craft
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="40" alt="fedora logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="illustrator logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="40" alt="yarn logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/kuxala/kuxala/output/snake.svg" alt="Snake animation" />
+
+###
