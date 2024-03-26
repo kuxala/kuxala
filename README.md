@@ -4,6 +4,7 @@
 </br>
 <p align="left">🚀 **What I Do:** I focus on frontend development, especially with React.js.</p>
 <p align="left">🌱 **Currently Learning:** I'm digging deeper into React and starting to explore backend development too.</p>
+</br>
 
 
 ###
