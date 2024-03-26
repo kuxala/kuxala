@@ -1,4 +1,4 @@
-<br clear="both">
+
 
 <h3 align="left">Hey there! 👋 I'm Roma, a developer who loves building cool stuff with code. I got hooked on coding because I enjoy solving problems and making things work.</h3>
 </br>
