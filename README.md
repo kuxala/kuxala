@@ -1,3 +1,1 @@
-<p align="center">
-  <img src="terminal.svg" alt="Terminal" />
-</p>
+![Terminal](terminal.svg)
