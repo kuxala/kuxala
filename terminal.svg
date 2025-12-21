@@ -1,0 +1,64 @@
+<svg width="600" height="280" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .bg { fill: #0d1117; }
+    .titlebar { fill: #161b22; }
+    .text { font-family: 'Courier New', monospace; font-size: 11px; fill: #c9d1d9; }
+    .prompt { fill: #58a6ff; }
+    .output { fill: #8b949e; font-family: 'Courier New', monospace; font-size: 11px; }
+    .green { fill: #3fb950; font-family: 'Courier New', monospace; font-size: 11px; }
+    .btn-red { fill: #ff5f56; }
+    .btn-yellow { fill: #ffbd2e; }
+    .btn-green { fill: #27c93f; }
+  </style>
+  
+  <!-- Window frame -->
+  <rect class="bg" width="600" height="280" rx="6"/>
+  
+  <!-- Title bar -->
+  <rect class="titlebar" width="600" height="28" rx="6"/>
+  <rect class="bg" y="22" width="600" height="8"/>
+  
+  <!-- Window buttons -->
+  <circle class="btn-red" cx="16" cy="14" r="5"/>
+  <circle class="btn-yellow" cx="34" cy="14" r="5"/>
+  <circle class="btn-green" cx="52" cy="14" r="5"/>
+  
+  <!-- Title -->
+  <text x="300" y="18" text-anchor="middle" class="text" style="font-size: 10px; fill: #8b949e;">kuxala@github</text>
+  
+  <!-- Terminal content -->
+  <text y="52" class="text">
+    <tspan x="16" class="prompt">❯</tspan>
+    <tspan> whoami</tspan>
+  </text>
+  <text x="16" y="68" class="output">Roma Kukhalashvili</text>
+  
+  <text y="92" class="text">
+    <tspan x="16" class="prompt">❯</tspan>
+    <tspan> echo $ROLE</tspan>
+  </text>
+  <text x="16" y="108" class="output">Full Stack Developer</text>
+  
+  <text y="132" class="text">
+    <tspan x="16" class="prompt">❯</tspan>
+    <tspan> ls skills/</tspan>
+  </text>
+  <text x="16" y="148" class="output">TypeScript  React  NestJS  Python  Postgres  MongoDB  Supabase  AI</text>
+  
+  <text y="172" class="text">
+    <tspan x="16" class="prompt">❯</tspan>
+    <tspan> pwd</tspan>
+  </text>
+  <text x="16" y="188" class="output">~/remote</text>
+  
+  <text y="212" class="text">
+    <tspan x="16" class="prompt">❯</tspan>
+    <tspan> echo $STATUS</tspan>
+  </text>
+  <text x="16" y="228" class="green">Working</text>
+  
+  <text y="252" class="text">
+    <tspan x="16" class="prompt">❯</tspan>
+    <tspan style="fill: #58a6ff;">_</tspan>
+  </text>
+</svg>
